@@ -1,0 +1,65 @@
+ .content{
+     width: 98.95vw;
+     height: 100vh;
+   
+     z-index: -1;
+ }
+ .content .myVideo {
+    width: 100vw;
+    height: 100vh;
+    object-fit: fill;
+    position: absolute;
+   
+   
+  
+    /*to edit the opacity effect change the percentage below */
+    
+    
+     
+   }
+   
+    .content .main-content{
+     
+        position:absolute;
+         top: 35vh;
+         left: 5vw;
+        
+         color: rgb(255, 251, 251);
+         width: 50vw;
+         height: 50vh;
+         
+        
+         
+       }
+        .content .main-content h2{
+           font-size: 2rem;
+           padding-top: 70px;
+           font-family: Arial, Helvetica, sans-serif;
+           line-height: 0%;
+       }
+       .content .main-content h1{
+           font-size: 5rem;
+           font-family: 'Oswald', sans-serif;
+           
+       }
+        .content .main-content button{
+            
+           color: whitesmoke;
+           width: 13vw;
+           height: 7vh;
+           font-family: Arial, Helvetica, sans-serif;
+           
+           margin-top: 20px;
+           font-size: 2rem;
+        background: inherit;
+           border: 4px solid whitesmoke;
+       }
+       .content .main-content button:hover{
+           background-color: whitesmoke;
+           color: black;
+       }
+       .content .main-content #speaker{
+           position: relative;
+           left: 58vw;
+           font-size: 3rem;
+       }

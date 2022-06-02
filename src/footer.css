@@ -1,0 +1,30 @@
+.footer{
+    width: 100vw;
+    height: 60vh;
+    background-color: rgb(20, 20, 20);
+    color:rgb(161, 158, 158) ;
+}
+.footer .container{
+    width: 65vw;
+   margin: auto;
+  
+}
+.footer .container #ic{
+    font-size: 1.5rem;
+    padding-top: 15vh;
+    cursor: pointer;
+}
+.footer .container .box2{
+    width: 65vw;
+    height: 5vh;
+   color: rgb(161, 158, 158);
+    display:flex ;
+   
+  
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.footer .container .box2 p{
+    width: 17vw;
+    
+}
